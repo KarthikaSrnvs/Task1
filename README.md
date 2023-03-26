@@ -128,7 +128,7 @@ Connect to your own system using telnet
 ( a.) Learn about nmap and use that scanner to scan your own machine
 ( b.) Use nmap to scan scanme.nmap.org
 
-![image](https://user-images.githubusercontent.com/128312503/227756306-1451dc12-86cb-4a60-9611-517829a1f411.png)
+![image](https://user-images.githubusercontent.com/128312503/227758132-0f1ce3aa-7f1b-43d6-8e41-f2b45c903384.png)
 ![image](https://user-images.githubusercontent.com/128312503/227758095-0ea5d959-151e-4783-98b0-e67e9831748e.png)
 
 
