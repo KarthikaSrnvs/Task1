@@ -139,3 +139,10 @@ Connect to your own system using telnet
 15.
 ( a.) Create a chat application using nc on your local machine with one terminal as server and other as the client
 ( b.) Transfer a file from server to client (save that file with another name) and display the file.
+
+![image](https://user-images.githubusercontent.com/128312503/227759636-f07a92b9-7729-4830-a6a8-feb33598ee7b.png)
+![image](https://user-images.githubusercontent.com/128312503/227759651-c2b95e41-0660-4b92-b4a1-b969b5479743.png)
+![image](https://user-images.githubusercontent.com/128312503/227759857-dabf4d78-8b15-4226-8b8f-60dbf626e309.png)
+![image](https://user-images.githubusercontent.com/128312503/227759825-7a325539-d3ce-449a-ae99-e9785de0ffde.png)
+![image](https://user-images.githubusercontent.com/128312503/227759873-c85d0ada-799e-463d-8c5e-d5eb36c533d1.png)
+
