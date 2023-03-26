@@ -93,6 +93,10 @@ Command
 ( b.) Extract the compressed file using CLI. 
 ( c.) Decode the base64 content and display the content of “Flag.txt”using CLI
 
+![image](https://user-images.githubusercontent.com/128312503/227757197-d1781605-ecb7-4013-8e8a-560e4c98b8ee.png)
+![image](https://user-images.githubusercontent.com/128312503/227757280-067414fa-688b-4c4c-b42f-e9159307dd56.png)
+
+
 
 
 11.
