@@ -32,6 +32,9 @@ First Line Second Line Third Line
 ( a.) Stay in directory a. Concatenate the contents of “file1” and “file2” and save them into a new file “file3”
 ( b.) Display the contents of “file3”
 
+![2](https://user-images.githubusercontent.com/128312503/227756077-ed7a181f-b82e-4e9c-9fc1-3d278b017b4a.png)
+
+
 
 
 5.
@@ -41,11 +44,17 @@ First Line Second Line Third Line
 ( d.) Delete the directory d in the current directory a
 ( e.) Copy “file3” to the directory d with a single command
 
+![image](https://user-images.githubusercontent.com/128312503/227756102-76a72464-390f-401f-bf58-4accf5a86d3b.png)
+
+
 
 
 6.
 ( a.) Go to directory d and rename “file3” to “file0”
 ( b.) Stay in the same directory and move “file0” to directory a
+
+![3](https://user-images.githubusercontent.com/128312503/227756119-4aa4e88b-b799-417d-9151-0be1f27da52f.png)
+
 
 
 
