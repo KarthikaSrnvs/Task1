@@ -123,6 +123,7 @@ Command
 13. 
 Connect to your own system using telnet
 
+![image](https://user-images.githubusercontent.com/128312503/227764445-62d6e55d-8e86-4035-8681-e3fecc84e22c.png)
 
 
 
