@@ -63,11 +63,18 @@ First Line Second Line Third Line
 ( b.) Create a file named “test” in the directory a/b/c/d
 ( c.) Stay in the home directory. Find and display the path of “test”
 
+![image](https://user-images.githubusercontent.com/128312503/227756235-f4b6ecd0-ac0e-4a54-bd33-94d853dc90d7.png)
+
+
 
 
 8.
 ( a.) Go to directory a. Get the man page of grep and save its contents to a file named “grepman.txt”
 ( b.) Print the lines containing the word “FILE” (Case sensitive) in the file “grepman.txt”
+
+![4 1](https://user-images.githubusercontent.com/128312503/227756257-eed0fb79-e5bf-49e2-9762-d5b7d29cb5bb.png)
+![4 2](https://user-images.githubusercontent.com/128312503/227756259-9e440c0b-7ac4-43c2-a00e-7e166b0fa297.png)
+
 
 
 
@@ -75,6 +82,9 @@ First Line Second Line Third Line
 ( a.) Go to directory a and remove the directory b with a single command
 ( b.) Remove the files starting with the word “file” with a single	
 Command
+
+![5](https://user-images.githubusercontent.com/128312503/227756278-35f408b3-5c0d-4224-91a6-0b2404e27579.png)
+
 
 
 
@@ -97,6 +107,9 @@ Command
 
 ( b.) Ping google.com 6 times and find the average time taken to get a response
 
+![image](https://user-images.githubusercontent.com/128312503/227756294-024f60d0-ce87-4de5-b97b-2bc995612243.png)
+
+
 
 
 13. 
@@ -109,6 +122,7 @@ Connect to your own system using telnet
 ( a.) Learn about nmap and use that scanner to scan your own machine
 ( b.) Use nmap to scan scanme.nmap.org
 
+![image](https://user-images.githubusercontent.com/128312503/227756306-1451dc12-86cb-4a60-9611-517829a1f411.png)
 
 
 
