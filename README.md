@@ -44,7 +44,7 @@ First Line Second Line Third Line
 ( d.) Delete the directory d in the current directory a
 ( e.) Copy “file3” to the directory d with a single command
 
-![image](https://user-images.githubusercontent.com/128312503/227756102-76a72464-390f-401f-bf58-4accf5a86d3b.png)
+![image](https://user-images.githubusercontent.com/128312503/227760959-86da7e9c-d85d-4659-8442-bb3b9f9f9520.png)
 
 
 
