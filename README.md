@@ -99,6 +99,8 @@ Command
 ( a.) Go to https://blog.bi0s.in/  and download the logo.png image using wget
 ( b.) Do the same using curl
 
+![image](https://user-images.githubusercontent.com/128312503/227756864-a6613329-fe0a-47d2-bb11-426bb4c4b45b.png)
+![image](https://user-images.githubusercontent.com/128312503/227756868-5e2342d6-492e-4ba8-a0e5-e3593411a5bd.png)
 
 
 
