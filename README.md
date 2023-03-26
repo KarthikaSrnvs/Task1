@@ -129,7 +129,9 @@ Connect to your own system using telnet
 ( b.) Use nmap to scan scanme.nmap.org
 
 ![image](https://user-images.githubusercontent.com/128312503/227758132-0f1ce3aa-7f1b-43d6-8e41-f2b45c903384.png)
-![image](https://user-images.githubusercontent.com/128312503/227758095-0ea5d959-151e-4783-98b0-e67e9831748e.png)
+![dffdfd](https://user-images.githubusercontent.com/128312503/227758187-886e22d9-857f-4d46-a95a-2fe7df2c00ce.png)
+
+
 
 
 
