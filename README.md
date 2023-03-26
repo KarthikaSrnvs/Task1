@@ -83,7 +83,7 @@ First Line Second Line Third Line
 ( b.) Remove the files starting with the word “file” with a single	
 Command
 
-![5](https://user-images.githubusercontent.com/128312503/227756278-35f408b3-5c0d-4224-91a6-0b2404e27579.png)
+![image](https://user-images.githubusercontent.com/128312503/227760619-88c47441-38c2-4685-8bb7-4034849ff60a.png)
 
 
 
